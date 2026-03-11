@@ -46,7 +46,7 @@ O usuário insere o tamanho da senha desejado (ex: 8 caractéres) e o computador
     }
 
 
-#Código sem a estrutura básica:
+# Código sem a estrutura básica:
 
     Scanner leitor = new Scanner(System.in);
         Random rnd = new Random();

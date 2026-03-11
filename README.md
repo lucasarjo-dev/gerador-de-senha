@@ -1,10 +1,10 @@
 # gerador-de-senha
 gerador simples de senhas aleatórias, ele utiliza 70 caractéres diferentes do teclado e os sorteia para o tamanho que o usuario insere. 
 
-#como funciona 
+# como funciona 
 O usuário insere o tamanho da senha desejado (ex: 8 caractéres) e o computador retorna para o usuário uma senha aleatória com letras(maiuscúlas e minúsculas), números e simbolos com a quantidade de caractéres desejados pelo usuário(tamanho da senha). 
 
-#Recursos
+# Recursos
 - Java
 - Scanner
 - Random
